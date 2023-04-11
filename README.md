@@ -9,7 +9,7 @@ Algumas das ferramentas disponíveis para utilização pelo bot, caso queira ape
 * 📚 **Documentações de linguagens:** /docs
 * 🔖 **CheatSheets de tecnologias:** /cheatsheets
 
-## Gameficação:
+## Gamificação:
 Você criará um personagem para diariamente trabalhar na área de tecnologias e recolher moedas, que futuramente poderão ser trocados para personalização do perfil e melhorias no ambiente de trabalho, para cada vez receber mais
 * 💼 **Crie seu próprio personagem e sua área de atuação:** /trabalhar (apenas 1 vez)
 * 📊 **Estatísticas de quanto você estudou no perfil:** /perfil 
